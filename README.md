@@ -17,7 +17,7 @@ It explores overall EV vs Petrol trends, leading brands, and competition dynamic
    - EV share increased from ~65% (2023) to over 70% by **mid-2025**.  
    - Petrol vehicles continued to decline, showing irreversible EV adoption.  
 
-  ![EV Trend](Images_HK EV trend analysis/Overall_EV_share_trend.png)
+  ![EV Trend](Images_HK%20EV%20trend%20analysis/Overall_EV_share_trend.png)
 
 
 2. **Top 5 EV Brands (2023–2025 H1)**  
@@ -26,14 +26,15 @@ It explores overall EV vs Petrol trends, leading brands, and competition dynamic
    - **B.M.W. / Mercedes-Benz**: Downward trend, showing slower EV adoption.  
    - **Newcomers (XPENG, ZEEKR, etc.)**: Small base but visible momentum by 2025.  
 
-   ![Top 5 Brands](Images_HK EV trend analysis/top5_ev_share.png)
+   ![Top 5 Brands](Images_HK%20EV%20trend%20analysis/top5_ev_share.png)
+
 
 
 3. **Case Study: Tesla**  
    - Despite overall EV market expansion, Tesla’s share **fell from ~34% to 25%**.  
    - Competition is intensifying—Tesla is no longer the sole leader in Hong Kong.  
 
-  ![Tesla Share](Images_HK EV trend analysis/tesla_share_trend.png)
+![Tesla Share](Images_HK%20EV%20trend%20analysis/tesla_share_trend.png)
 
 ---
 
